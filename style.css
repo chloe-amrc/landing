@@ -1,0 +1,102 @@
+body	{
+	background: #1E1C1E;
+	color: #FEFEFE;
+	font-size: 20px
+}
+
+a	{
+	text-decoration: none;
+	color: #FEFEFE
+}
+
+a:hover	{
+	color: #DE7223;
+}
+
+.menu {
+	text-align: center;
+	background-image: url(image-fond2.jpeg);
+	background-size: cover;
+	padding: 140px;
+}
+
+.menu2 {
+	word-spacing: 50px;
+}
+
+h2 {
+	color: #DE7223
+}
+
+.cours-debutant {
+	padding: 40px;
+	margin: 50px auto;
+}
+
+.desc2 {
+	padding-top: 40px;
+	padding-left: 450px;
+}
+
+.desc3 {
+	padding-left: 450px
+}
+
+.img-photo-groupe {
+	height: 250px;
+	padding : 20px;
+}
+
+.menu3 {
+	word-spacing: 2px;
+}
+
+.img-photo-de-rue {
+	height: 350px;
+	padding : 20px;
+}
+
+.cours-photo-de-rue {
+	padding-left: 40px;
+	padding-top: 60px;
+	padding-bottom: 30px;
+	margin-top: 100px;
+	background-color: #3B3B3B;
+	min-height: 65vh;
+}
+
+.desc4 {
+	padding-top: 70px;
+	padding-left: 350px;
+}
+
+.desc5 {
+	padding-left: 350px
+}
+
+.img-photo-retouche{
+	height: 215px;
+	padding : 20px;
+}
+
+.cours-retouche {
+	padding: 40px;
+	margin: 50px auto;
+}
+
+.desc6 {
+	padding-left: 450px;
+}
+
+.desc7 {
+	padding-left: 450px
+}
+
+
+
+
+
+
+
+
+
